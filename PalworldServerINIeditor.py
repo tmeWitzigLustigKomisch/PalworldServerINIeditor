@@ -90,7 +90,7 @@ class SettingsEditor:
 
     def show_info(self):
         # Info über den Entwickler und das Programm anzeigen
-        info = "Entwickler: FleXcon\n\nTelegram: t.me/WitzigLustigKomisch\n\nDieses Programm ermöglicht das einfache Bearbeiten von Palworld Server INI-Einstellungen."
+        info = "Entwickler: FleXcon\n\nTelegram: t.me/WitzigLustigKomisch\n\nDieses Programm ermöglicht das einfache bearbeiten von Palworld Server INI-Einstellungen."
         messagebox.showinfo("Info", info)
 
 
